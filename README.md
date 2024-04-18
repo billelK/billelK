@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js and vue.js**
 
-- 💬 Ask me about **react and vanilla js**
-
 - 📫 How to reach me **bilalkhansal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/billel-khansal-ba28b2206/](https://www.linkedin.com/in/billel-khansal-ba28b2206/)
